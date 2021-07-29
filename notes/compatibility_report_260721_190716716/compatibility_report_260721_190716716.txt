@@ -1,0 +1,31 @@
+Converting GML script: ${project_dir}\scripts\server_create\server_create.gml
+Converted description /// @description server_create(port)/// @param port
+
+Converting GML script: ${project_dir}\scripts\server_handle_connect\server_handle_connect.gml
+Converted description /// @description server_handle_connect(socket_id);/// @param socket_id
+
+Converting GML script: ${project_dir}\scripts\server_handle_message\server_handle_message.gml
+Converted description /// @description server_handle_message(socket_id_buffer);/// @param socket_id_buffer
+
+Converting GML script: ${project_dir}\scripts\server_handle_disconnect\server_handle_disconnect.gml
+Converted description /// @description server_handle_disconnect(socket_id);/// @param socket_id
+
+Converting GML script: ${project_dir}\scripts\client_connect\client_connect.gml
+Converted description /// @description client_connect(ip, port);/// @param ip
+/// @param  port
+
+Converting GML script: ${project_dir}\scripts\client_disconnect\client_disconnect.gml
+Converted description /// @description client_disconnect();
+
+Converting GML script: ${project_dir}\scripts\client_handle_message\client_handle_message.gml
+Converted description /// @description client_handle_message(buffer);/// @param buffer
+
+Converting GML script: ${project_dir}\scripts\client_send_movement\client_send_movement.gml
+Converted description /// @description client_send_movement();
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
